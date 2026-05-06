@@ -1,0 +1,113 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "Dynamic Software Developer specializing in scalable, user-centric solutions across real-time systems, MERN stack, and AI-powered platforms.",
+  "about": "Pooja R. Sonar is a highly skilled Software Developer with proven expertise in architecting and deploying real-time telemetry systems, crafting scalable web applications, and integrating advanced AI-driven solutions. Her comprehensive experience spans full-stack development, leveraging modern technologies such as Next.js, React, Node.js, and MongoDB to optimize front-end performance and user experience. She excels at designing intuitive user interfaces, implementing secure authentication protocols, and ensuring robust system reliability through message-driven architectures and microservices. Beyond her technical prowess, Pooja is a recognized leader, having achieved top placements in competitive hackathons and actively contributing to technical communities.",
+  "experience": 1.75,
+  "currentRole": "Software Developer at InnoFarms.AI",
+  "highlights": [
+    "Architected real-time telemetry (10K+ readings/min) via Cosmos DB change feed + Node.js; achieved 99.9% uptime.",
+    "Integrated Socket.IO WebSockets + MQTT to serve 500+ farms with <100ms UI latency.",
+    "Built Next.js (TypeScript) + Redux dashboards for 50+ sensor cards, anomalies, alerts; <200ms refresh.",
+    "Implemented SSE fallback with exponential backoff (98% reconnect) and per-farm isolation for 100+ farms.",
+    "Built and maintained scalable web applications using Next.js and TypeScript, optimized front-end performance and UX.",
+    "Secured 3rd place in Hackathon organized by GDSC ADGITM.",
+    "Represented as Goa State Chess Player."
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "C++",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Core CS",
+      "skills": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "skills": [
+        "React",
+        "Next.js",
+        "Redux",
+        "Tailwind CSS",
+        "MUI"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Java",
+        "Spring",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Realtime",
+      "skills": [
+        "WebSockets",
+        "Socket.IO",
+        "MQTT",
+        "SSE",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Cloud & Databases",
+      "skills": [
+        "Azure (Container Apps, Cosmos DB)",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        "Git/GitHub",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest (MERN)",
+      "description": "Developed an innovative, AI-powered gamified coding preparation platform. This MERN stack application facilitates user learning of various programming languages through interactive challenges, offering intelligent, AI-driven assistance leveraging Gemini's API.",
+      "tech": [
+        "Solidity",
+        "JavaScript",
+        "CSS",
+        "React",
+        "Gemini's API"
+      ]
+    },
+    {
+      "name": "Chess.com Backend Clone (MERN)",
+      "description": "Designed and implemented a comprehensive backend clone of Chess.com using the MERN stack. This system accurately mimics chess gameplay, featuring real-time synchronization powered by Socket.IO WebSockets and robust RESTful APIs incorporating advanced security measures.",
+      "tech": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "Socket.IO",
+        "JWT",
+        "RBAC",
+        "Rate Limiting",
+        "CORS"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "linkedin",
+    "github": "github"
+  }
+}
